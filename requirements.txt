@@ -1,0 +1,7 @@
+mecab-python3
+requests
+beautifulsoup4
+lxml
+sklearn
+numpy
+scipy
